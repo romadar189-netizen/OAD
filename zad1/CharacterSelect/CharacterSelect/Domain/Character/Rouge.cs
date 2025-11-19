@@ -11,5 +11,7 @@ public sealed class Rogue : Entity.Character
         Strength = 9;
         Intelligence = 8;
         Agility = 15;
+        Luck  = 5;
+        Charisma = 9;
     }
 }

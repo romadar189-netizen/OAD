@@ -11,5 +11,7 @@ public sealed class Mage : Entity.Character
         Strength = 4;
         Intelligence = 16;
         Agility = 10;
+        Luck  = 5;
+        Charisma = 12;
     }
 }
